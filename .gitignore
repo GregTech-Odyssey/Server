@@ -4,12 +4,7 @@ ldlib/
 logs/
 local/
 modernfix/
-saves/
-coremods/
-texturepacks/
 simplebackups/
-xaero*/
-log4j2.xml
 rhino.local.properties
 usercache.json
 usernamecache.json
